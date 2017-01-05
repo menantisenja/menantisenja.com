@@ -178,8 +178,7 @@ Ya sudah, selanjutnya ayo ke Animate.
 
 44
 00:04:18,980 --> 00:04:21,820
-{I need to buy this new manga
-with the special bonus flier attached.}Aku harus membeli komik baru yang ada bonus spesialnya ini.
+Aku harus membeli komik baru yang ada bonus spesialnya ini.
 
 45
 00:04:22,110 --> 00:04:24,990
@@ -200,8 +199,7 @@ Kau cuma perlu berdiri
 
 49
 00:04:31,810 --> 00:04:36,290
-{I see... Then I can look for the
-Anatomy Rangers limited-edition figurines...}Begitu... Kalau begitu aku bisa mencari figur edisi terbatas Anatomi Ranger...
+Begitu... Kalau begitu aku bisa mencari figur edisi terbatas Anatomi Ranger...
 
 50
 00:04:36,290 --> 00:04:37,840
@@ -406,17 +404,15 @@ Udah! Temeni aku!
 
 97
 00:07:38,600 --> 00:07:39,930
-{"Kage-san"
-"That thing you wanted, Tamotsu, I found it."} "Kage" "Aku menemukannya, Tamotsu, Benda yang kau inginkan."
+ "Kage" "Aku menemukannya, Tamotsu, Benda yang kau inginkan."
 
 98
 00:07:41,560 --> 00:07:43,940
-{I'm sorry, your brother must go!} Maaf, aku harus pergi!
+ Maaf, aku harus pergi!
 
 99
 00:07:43,940 --> 00:07:48,940
-{Huh?! You promised to spend
-the entire day with me!} Huh?! Kau sudah janji akan 
+ Huh?! Kau sudah janji akan 
 menghabiskan satu hari denganku!
 
 100
@@ -425,23 +421,19 @@ Besok lagi saja!
 
 101
 00:07:50,610 --> 00:07:55,450
-{Not every day is a holiday 
-for me, unlike you!} Bagiku hari libur itu tidak setiap hari, tidak sepertimu!
+ Bagiku hari libur itu tidak setiap hari, tidak sepertimu!
 
 102
 00:07:59,980 --> 00:08:03,000
-{Wow... He's right!
-Almost all of the versions are here!} Wow... Dia benar! Hampir seluruh versi ada di sini!
+ Wow... Dia benar! Hampir seluruh versi ada di sini!
 
 103
 00:08:03,420 --> 00:08:07,500
-{Not just Liver Blue,
-but Colon Black, and Ear Hair Purple...} Tidak hanya Hati Biru, tapi Usus Hitam, dan Rambut Kuping Ungu...
+ Tidak hanya Hati Biru, tapi Usus Hitam, dan Rambut Kuping Ungu...
 
 104
 00:08:07,500 --> 00:08:11,420
-{Impressive, Mr. Kage, Lord of Akiba.
-Only he would know of such a shop...} Hebat, Tuan Kage, Raja Akiba. Hanya dia yang tahu toko semacam ini...
+ Hebat, Tuan Kage, Raja Akiba. Hanya dia yang tahu toko semacam ini...
 
 105
 00:08:12,010 --> 00:08:12,750
@@ -449,28 +441,25 @@ Hmm?
 
 106
 00:08:13,010 --> 00:08:16,760
-{Wow! It's Liver Blue Fatty Mode!} Wow! Ini Hati Biru Mode Gendut!
+ Wow! Ini Hati Biru Mode Gendut!
 
 107
 00:08:17,010 --> 00:08:20,060
-{A limited edition, released only in
-an event in Aomori last year...} Edisi terbatas, hanya tersedia
+ Edisi terbatas, hanya tersedia
  di acara Aomori tahun lalu...
 
 108
 00:08:20,060 --> 00:08:23,310
-{Never re-released because
-it was so horribly unpopular...} Tidak diproduksi lagi karena ini sangat jelek dan tidak terkenal...
+ Tidak diproduksi lagi karena ini sangat jelek dan tidak terkenal...
 
 109
 00:08:23,310 --> 00:08:26,060
-{A legendary item, I can't believe it's here!} Barang legendaris, siapa sangka 
+ Barang legendaris, siapa sangka 
 barangnya ada di sini!
 
 110
 00:08:26,610 --> 00:08:32,900
-{No, it must be destiny that lead me
-to acquire this item... This mythical--} Tidak, ini pasti takdir yang membawaku untuk mendapatkan barang ini... Benda Mistis ini—
+ Tidak, ini pasti takdir yang membawaku untuk mendapatkan barang ini... Benda Mistis ini—
 
 111
 00:08:33,130 --> 00:08:33,780
@@ -482,53 +471,48 @@ Moi?
 
 113
 00:08:37,620 --> 00:08:39,700
-{Huh? I won't...} Huh? Tidak...
+ Huh? Tidak...
 
 114
 00:08:39,990 --> 00:08:44,630
-{Moimoi, mo-moi, I found this first!} Moimoi, mo-moi, 
+ Moimoi, mo-moi, 
 aku duluan yang menemukannya!
 
 115
 00:08:44,630 --> 00:08:47,960
-{What's mine is mine, what's yours is yours!} Apa yang sudah jadi milikku adalah milikku, begitu juga denganmu!
+ Apa yang sudah jadi milikku adalah milikku, begitu juga denganmu!
 
 116
 00:08:47,960 --> 00:08:51,380
-{That's normal! Wow, she's strong...} Itu wajar! Wow, dia kuat...
+ Itu wajar! Wow, dia kuat...
 
 117
 00:08:51,380 --> 00:08:54,380
-{This is my figurine, my Liver!} Ini figurku, Liverku!
+ Ini figurku, Liverku!
 
 118
 00:08:54,720 --> 00:08:56,050
-{This rare version is
-not only colored differently,} Versi langka ini tidak hanya berbeda warna,
+ Versi langka ini tidak hanya berbeda warna,
 
 119
 00:08:56,050 --> 00:08:59,850
-{but is also newly modeled to more
-closely reflect the original designs!} tapi juga desain terbaru untuk lebih mencerminkan desain yang asli!
+ tapi juga desain terbaru untuk lebih mencerminkan desain yang asli!
 
 120
 00:09:00,140 --> 00:09:04,140
-{I want to repaint this to match
-the original, base color!} Aku ingin mewarnainya untuk menyamakannya dengan yang asli, warna dasar!
+ Aku ingin mewarnainya untuk menyamakannya dengan yang asli, warna dasar!
 
 121
 00:09:05,390 --> 00:09:07,520
-{This one knows what she's talking about!} Orang ini tahu apa yang dia bicarakan!
+ Orang ini tahu apa yang dia bicarakan!
 
 122
 00:09:07,520 --> 00:09:10,690
-{She noticed that the rare color
-is modeled differently!} Dia sadar akan warnanya yang langka didesain berbeda!
+ Dia sadar akan warnanya yang langka didesain berbeda!
 
 123
 00:09:10,690 --> 00:09:17,110
-{I love Liver! So I really,
-really want it! Give me Liver!} Aku cinta Liver! Jadi aku sangat, sangat menginginkannya! Berikan Liver padaku!
+ Aku cinta Liver! Jadi aku sangat, sangat menginginkannya! Berikan Liver padaku!
 
 124
 00:09:20,530 --> 00:09:24,410
@@ -536,11 +520,11 @@ Yay! Aku dapat Liver, moi!
 
 125
 00:09:24,410 --> 00:09:28,580
-{Please don't feel bad. Moi, moi!} Tolong menganggapku jahat, ya. Moi, moi!
+ Tolong menganggapku jahat, ya. Moi, moi!
 
 126
 00:09:28,460 --> 00:09:31,170
-{No, wait! At least, tell me!} Tidak, tunggu! Setidaknya, katakan padaku!
+ Tidak, tunggu! Setidaknya, katakan padaku!
 
 127
 00:09:31,170 --> 00:09:31,710
@@ -548,45 +532,40 @@ Hmm?
 
 128
 00:09:31,710 --> 00:09:34,720
-{Tell me more about the emotions
-you have invested in that rare item!} Katakan padaku tentang perasaan yang kau simpan dari barang langka itu!
+ Katakan padaku tentang perasaan yang kau simpan dari barang langka itu!
 
 129
 00:09:34,720 --> 00:09:36,220
-{Motions?} Perasaan?
+ Perasaan?
 
 130
 00:09:36,630 --> 00:09:41,260
-{If I can't have it, I want to at least
-passionately discuss Liver Blue.} Kalau aku tidak bisa memilikinya, setidaknya aku ingin membahas Liver Biru.
+ Kalau aku tidak bisa memilikinya, setidaknya aku ingin membahas Liver Biru.
 
 131
 00:09:41,260 --> 00:09:45,140
-{You and I share a value. 
-We are already friends!} Kau dan aku berbagi kadar yang sama. 
+ Kau dan aku berbagi kadar yang sama. 
 Kita sudah berteman!
 
 132
 00:09:45,430 --> 00:09:47,520
-{Friends...?} Teman...?
+ Teman...?
 
 133
 00:09:47,730 --> 00:09:51,520
-{That's right. We don't come to
-Akiba just to dig up rare goods.} Benar. Kita tidak datang ke Akiba hanya untuk mencari barang yang langka.
+ Benar. Kita tidak datang ke Akiba hanya untuk mencari barang yang langka.
 
 134
 00:09:51,520 --> 00:09:54,190
-{We're here to breathe the air...} Kita di sini untuk menghirup udara...
+ Kita di sini untuk menghirup udara...
 
 135
 00:09:54,190 --> 00:09:56,700
-{The atmosphere of friendship and compassion!} Suasana persahabatan dan kasih sayang!
+ Suasana persahabatan dan kasih sayang!
 
 136
 00:09:57,200 --> 00:10:01,280
-{We are comrades,
-living in the same atmosphere!} Kita adalah rekan, yang hidup 
+ Kita adalah rekan, yang hidup 
 dalam atmosfir yang sama!
 
 137
@@ -595,22 +574,19 @@ Wow!
 
 138
 00:10:03,890 --> 00:10:08,040
-{For some reason,
-I totally understand what you mean!} Entah kenapa, aku benar-benar mengerti apa maksudmu!
+ Entah kenapa, aku benar-benar mengerti apa maksudmu!
 
 139
 00:10:08,540 --> 00:10:13,800
-{You speak directly to
-the heart of Arisa Ahokainen!} Kau berbicara langsung ke hati Arisa Ahokainen!
+ Kau berbicara langsung ke hati Arisa Ahokainen!
 
 140
 00:10:14,130 --> 00:10:15,300
-{With a thud!} Dengan jelas!
+ Dengan jelas!
 
 141
 00:10:17,420 --> 00:10:22,550
-{Nice to meet you, Arisa.
-My name is Tamotsu. Tamotsu Denkigai.} Salam kenal, Arisa. 
+ Salam kenal, Arisa. 
 Namaku Tamotsu. Tamotsu Denkigai.
 
 142
@@ -623,11 +599,11 @@ Dikit lagi...
 
 144
 00:10:34,980 --> 00:10:37,240
-{Found you, Bugged One!} Ketemu juga, Manusia Serangga!
+ Ketemu juga, Manusia Serangga!
 
 145
 00:10:37,240 --> 00:10:38,200
-{Bug?} Serangga?
+ Serangga?
 
 146
 00:10:38,200 --> 00:10:38,950
@@ -635,62 +611,60 @@ Gadis yang tadi...
 
 147
 00:10:41,240 --> 00:10:43,580
-{Mo-moi! What is this...?} Mo-moi! Apa ini...?
+ Mo-moi! Apa ini...?
 
 148
 00:10:43,580 --> 00:10:45,660
-{Reveal yourself!} Tunjukkan dirimu!
+ Tunjukkan dirimu!
 
 149
 00:10:45,660 --> 00:10:47,870
-{Reveal?! What do you mean?!} Tunjukkan?! Apa maksudmu?!
+ Tunjukkan?! Apa maksudmu?!
 
 150
 00:10:48,000 --> 00:10:50,620
-{That weird cosplay, you must be one of them!} Cosplay aneh itu, kau pasti salah satu dari mereka!
+ Cosplay aneh itu, kau pasti salah satu dari mereka!
 
 151
 00:10:50,710 --> 00:10:54,090
-{There are tons of cosplayers around here!} Ada banyak cosplayer di sini!
+ Ada banyak cosplayer di sini!
 
 152
 00:10:54,590 --> 00:10:57,850
-{Your physical abilities are superhuman!} Kemampuan fisikmu melebihi batas normal!
+ Kemampuan fisikmu melebihi batas normal!
 
 153
 00:10:59,050 --> 00:10:59,760
-{The figurines!} Figurnya!
+ Figurnya!
 
 154
 00:10:59,760 --> 00:11:01,090
-{Accept your fate!} Terimalah takdirmu!
+ Terimalah takdirmu!
 
 155
 00:11:02,470 --> 00:11:05,010
-{I will punish you
-for treating treasures without respect!} Aku akan menghukummu karena sudah 
+ Aku akan menghukummu karena sudah 
 memperlakukan harta berharga tanpa hormat!
 
 156
 00:11:18,190 --> 00:11:19,800
-{Strategic retreat! Off I go!} Strategi mundur! Aku pergi!
+ Strategi mundur! Aku pergi!
 
 157
 00:11:20,610 --> 00:11:23,160
-{Hey, wait, you Bug!} Hei, tunggu, Manusia Serangga!
+ Hei, tunggu, Manusia Serangga!
 
 158
 00:11:27,080 --> 00:11:28,950
-{I should have taken a movie of that.} Seharusnya aku merekamnya untuk film.
+ Seharusnya aku merekamnya untuk film.
 
 159
 00:11:28,950 --> 00:11:30,710
-{An explosion, on Chuo Dori Street?} Ledakan, di Jalan Chuo Dori?
+ Ledakan, di Jalan Chuo Dori?
 
 160
 00:11:31,580 --> 00:11:35,750
-{You mean around Adores Café?
-What's going on in Akihabara today?} Maksudmu sekitar Kafé Adores? Apa yang sedang terjadi di Akihabara hari ini?
+ Maksudmu sekitar Kafé Adores? Apa yang sedang terjadi di Akihabara hari ini?
 
 161
 00:11:35,750 --> 00:11:37,170
@@ -698,7 +672,7 @@ Kafé Adores...
 
 162
 00:11:37,710 --> 00:11:39,630
-{Next up is Adores Café!} Selanjutnya Kafé Adores!
+ Selanjutnya Kafé Adores!
 
 163
 00:11:39,970 --> 00:11:40,760
@@ -706,56 +680,53 @@ Niwaka!
 
 164
 00:11:41,110 --> 00:11:42,010
-{Dammit!} Sial!
+ Sial!
 
 165
 00:11:42,010 --> 00:11:44,000
-{Retrieved! Excuse me, checkout please!} Selamatkan! Maaf, silakan periksa kembali!
+ Selamatkan! Maaf, silakan periksa kembali!
 
 166
 00:11:48,770 --> 00:11:51,310
-{Please stand back, stand back.} Tolong mundur sedikit, mundur.
+ Tolong mundur sedikit, mundur.
 
 167
 00:11:51,310 --> 00:11:55,270
-{Hey, you there! Stand back!} Hei, kau! Mundurlah!
+ Hei, kau! Mundurlah!
 
 168
 00:11:55,270 --> 00:11:57,650
-{I can see you. I can see you real good.} Aku bisa melihatmu. 
+ Aku bisa melihatmu. 
 Aku bisa melihatmu dengan jelas.
 
 169
 00:11:57,650 --> 00:11:59,780
-{The number you have dialed
-is not available right now.} Nomor yang anda tuju sedang tidak aktif.
+ Nomor yang anda tuju sedang tidak aktif.
 
 170
 00:11:59,780 --> 00:12:03,030
-{The phone may be out of range,
-or turned off.} Atau berada di luar jangkauan, 
+ Atau berada di luar jangkauan, 
 atau sedang dimatikan.
 
 171
 00:12:03,160 --> 00:12:05,280
-{Hey, you can't come in!} Hai, kau tidak boleh masuk!
+ Hai, kau tidak boleh masuk!
 
 172
 00:12:05,280 --> 00:12:08,540
-{Hey, you! Stop! Whoa!} Hei, kau! Berhenti! Whoa!
+ Hei, kau! Berhenti! Whoa!
 
 173
 00:12:20,380 --> 00:12:22,510
-{"Emergency Exit"} "Pintu Darurat"
+ "Pintu Darurat"
 
 174
 00:12:22,940 --> 00:12:24,320
-{There are customers here?} Apa ada pelanggan di sini?
+ Apa ada pelanggan di sini?
 
 175
 00:12:26,180 --> 00:12:29,810
-{Um, have you seen a girl
-wearing a weird panda outfit?} Emm, apa kau melihat seorang gadis yang memakai kostum panda yang aneh?
+ Emm, apa kau melihat seorang gadis yang memakai kostum panda yang aneh?
 
 176
 00:12:31,350 --> 00:12:34,310
@@ -763,7 +734,7 @@ Whoa! Whoa! Aw! Aduh...
 
 177
 00:12:35,190 --> 00:12:36,400
-{What?!} Apa?!
+ Apa?!
 
 178
 00:12:39,320 --> 00:12:41,740
@@ -771,7 +742,7 @@ Maafkan aku! Aku akan melakukan apapun!
 
 179
 00:12:42,930 --> 00:12:45,140
-{Huh? Am I safe...?} Eh? Apa aku selamat...?
+ Eh? Apa aku selamat...?
 
 180
 00:12:45,140 --> 00:12:46,210
@@ -779,21 +750,20 @@ Ternyata tidak!
 
 181
 00:13:01,960 --> 00:13:05,090
-{I see you often. But you're in my way.} Aku sering melihatmu. 
+ Aku sering melihatmu. 
 Tapi kau selalu menggangguku.
 
 182
 00:13:05,470 --> 00:13:09,300
-{It's not like I want to be here!
-My little sister's here!} Aku ke sini bukan atas kemauanku sendiri! Adik perempuanku ada di sini!
+ Aku ke sini bukan atas kemauanku sendiri! Adik perempuanku ada di sini!
 
 183
 00:13:09,300 --> 00:13:09,930
-{Sister?} Adik?
+ Adik?
 
 184
 00:13:10,810 --> 00:13:12,350
-{Right! Niwaka!} Benar! Niwaka!
+ Benar! Niwaka!
 
 185
 00:13:15,230 --> 00:13:16,480
@@ -801,43 +771,41 @@ Niwaka!
 
 186
 00:13:18,770 --> 00:13:19,840
-{Dammit!} Sial!
+ Sial!
 
 187
 00:13:19,840 --> 00:13:21,790
-{Niwaka! Are you okay?!} Niwaka! Kau tidak apa-apa?!
+ Niwaka! Kau tidak apa-apa?!
 
 188
 00:13:22,360 --> 00:13:25,230
-{Good... She seems to be alive, I think...} Bagus... tampaknya dia masih hidup...
+ Bagus... tampaknya dia masih hidup...
 
 189
 00:13:33,880 --> 00:13:35,960
-{Take your sister and run...} Bawa adikmu dan lari...
+ Bawa adikmu dan lari...
 
 190
 00:13:35,960 --> 00:13:37,620
-{But you're hurt...} Tapi kau terluka...
+ Tapi kau terluka...
 
 191
 00:13:37,860 --> 00:13:39,320
-{I told you, you're in my way!} Sudah kubilang, kau menggangguku!
+ Sudah kubilang, kau menggangguku!
 
 192
 00:13:39,320 --> 00:13:41,380
-{I might not be able to save you next time!} Lain waktu aku mungkin 
+ Lain waktu aku mungkin 
 tidak bisa menyelamatkanmu!
 
 193
 00:13:44,420 --> 00:13:48,050
-{Traitor... You are supposed
-to be on our side...} Pengkhianat... seharusnya kau
+ Pengkhianat... seharusnya kau
  berpihak dengan kami...
 
 194
 00:13:48,340 --> 00:13:53,180
-{Don't include me in
-your little circle of villains...} Jangan samakan aku seperti pelaku lingkaran kejahatan seperti kalian...
+ Jangan samakan aku seperti pelaku lingkaran kejahatan seperti kalian...
 
 195
 00:14:02,020 --> 00:14:05,060
@@ -845,59 +813,56 @@ Parah... Ngeri...
 
 196
 00:14:07,200 --> 00:14:08,410
-{She...} Dia...
+ Dia...
 
 197
 00:14:12,940 --> 00:14:15,580
-{Oh, wait. It's you!} Oh, tunggu. Kau yang kita ketemu tadi!
+ Oh, tunggu. Kau yang kita ketemu tadi!
 
 198
 00:14:15,580 --> 00:14:20,040
-{Moi, you are Tamotsu! Welcome!} Moi, kau Tamotsu! Selamat datang!
+ Moi, kau Tamotsu! Selamat datang!
 
 199
 00:14:20,040 --> 00:14:21,920
-{This isn't your house!} Ini bukan rumahmu!
+ Ini bukan rumahmu!
 
 200
 00:14:21,920 --> 00:14:26,760
-{I was enjoying an exciting game of tag,
-when the roles suddenly reversed.} Aku sedang asik kejar-kejaran ketika tiba-tiba perannya berbalik.
+ Aku sedang asik kejar-kejaran ketika tiba-tiba perannya berbalik.
 
 201
 00:14:26,760 --> 00:14:28,760
-{Why are you in a different outfit?} Kenapa pakaianmu berubah?
+ Kenapa pakaianmu berubah?
 
 202
 00:14:29,130 --> 00:14:33,930
-{Moi... The previous outfit was
-ripped off of me during the fight.} Moi... Pakaian yang sebelumnya
+ Moi... Pakaian yang sebelumnya
  sobek ketika perkelahian.
 
 203
 00:14:33,930 --> 00:14:38,100
-{Then she said, "Oops, sorry, my mistake!"} Kemudian dia bilang, "Ups, maaf, salahku!"
+ Kemudian dia bilang, "Ups, maaf, salahku!"
 
 204
 00:14:38,100 --> 00:14:41,560
-{I wanted to ask her what she was
-talking about, so I followed her.} Aku mau tanya padanya tentang apa yang ia bicarakan, jadi aku mengikutinya.
+ Aku mau tanya padanya tentang apa yang ia bicarakan, jadi aku mengikutinya.
 
 205
 00:14:41,980 --> 00:14:44,650
-{Hmm, she's always undressing the opponent...} Hmm, dia selalu menelanjangi lawannya...
+ Hmm, dia selalu menelanjangi lawannya...
 
 206
 00:14:45,570 --> 00:14:49,110
-{Moi? Oh, how cute! Is she your girlfriend?} Moi? Oh, manis sekali! Apa dia pacarmu?
+ Moi? Oh, manis sekali! Apa dia pacarmu?
 
 207
 00:14:49,280 --> 00:14:52,950
-{Huh? Big Bro has no girlfriend!} Hah? Masku nggak punya pacar!
+ Hah? Masku nggak punya pacar!
 
 208
 00:14:52,950 --> 00:14:55,570
-{In fact he only has very few friends...} Apalagi, dia cuma punya sedikit teman...
+ Apalagi, dia cuma punya sedikit teman...
 
 209
 00:14:56,410 --> 00:14:57,410
@@ -905,27 +870,27 @@ Grr...
 
 210
 00:14:57,410 --> 00:14:59,160
-{Oh! Tamotsu is a loner!} Oh! Tamotsu itu seorang penyendiri!
+ Oh! Tamotsu itu seorang penyendiri!
 
 211
 00:14:59,160 --> 00:15:00,370
-{Shut up!} Berisik!
+ Berisik!
 
 212
 00:15:02,960 --> 00:15:05,880
-{Miss Ahokainen, I need to ask you a favor.} Nona Ahokainen, aku mau minta tolong padamu.
+ Nona Ahokainen, aku mau minta tolong padamu.
 
 213
 00:15:05,880 --> 00:15:08,290
-{Just call me Arisa.} Panggil saja aku Arisa.
+ Panggil saja aku Arisa.
 
 214
 00:15:08,300 --> 00:15:09,420
-{Take care of my sister.} Tolong jaga adikku.
+ Tolong jaga adikku.
 
 215
 00:15:10,180 --> 00:15:12,220
-{Take her someplace safe...} Bawa dia ke tempat yang aman...
+ Bawa dia ke tempat yang aman...
 
 216
 00:15:12,220 --> 00:15:13,180
@@ -933,93 +898,82 @@ Moi?
 
 217
 00:15:13,180 --> 00:15:15,140
-{We fought over the same figurine.} Kita bertengkar karena boneka figur yang sama.
+ Kita bertengkar karena boneka figur yang sama.
 
 218
 00:15:15,430 --> 00:15:18,180
-{I can trust you,
-as we both share the same soul.} Aku bisa mempercayaimu, 
+ Aku bisa mempercayaimu, 
 karena kita punya jiwa yang sama.
 
 219
 00:15:18,520 --> 00:15:21,310
-{Tamotsu, what are you going to do?} Tamotsu, apa yang akan kau lakukan?
+ Tamotsu, apa yang akan kau lakukan?
 
 220
 00:15:21,310 --> 00:15:24,190
-{I have to go after her.} Aku harus mengejarnya.
+ Aku harus mengejarnya.
 
 221
 00:15:24,610 --> 00:15:27,940
-{She bugs me. I can't
-leave these things unexplored.} Dia menggangguku. 
+ Dia menggangguku. 
 Aku tidak bisa membiarkan begitu saja.
 
 222
 00:15:27,940 --> 00:15:32,660
-{But isn't it dangerous?
-You are quite below average in physique.} Tapi bukankah berbahaya? 
+ Tapi bukankah berbahaya? 
 Fisikmu kan di bawah rata-rata.
 
 223
 00:15:33,120 --> 00:15:34,740
-{But I can't just leave it alone!} Tapi tidak bisa kubiarkan saja!
+ Tapi tidak bisa kubiarkan saja!
 
 224
 00:15:34,740 --> 00:15:39,660
-{If it looks interesting, no ocean, mountain,
-or galaxy should separate me from it!} Kalau itu menarik, tidak akan ada gunung, laut, ataupun galaksi yang bisa memisahkanku darinya!
+ Kalau itu menarik, tidak akan ada gunung, laut, ataupun galaksi yang bisa memisahkanku darinya!
 
 225
 00:15:39,660 --> 00:15:42,170
-{"Curiosity must take
-precedence over everything!"} "Rasa ingin tahu harus mendahului segalanya!"
+ "Rasa ingin tahu harus mendahului segalanya!"
 
 226
 00:15:42,170 --> 00:15:45,130
-{Remember that line from
-episode 34 of Anatomy Rangers?!} Ingat kalimat itu dari episode 34 Anatomi Ranger?!
+ Ingat kalimat itu dari episode 34 Anatomi Ranger?!
 
 227
 00:15:46,050 --> 00:15:49,880
-{N-Now that you mention it, that might
-have been a line from that episode...} Benar juga ya, itu mungkin memang kalimat dari episode itu...
+ Benar juga ya, itu mungkin memang kalimat dari episode itu...
 
 228
 00:15:49,880 --> 00:15:53,430
-{Tamotsu, you are so cool!
-You can get any girl now!} Tamotsu, kau keren sekali! Sekarang kau bisa dapatkan gadis manapun!
+ Tamotsu, kau keren sekali! Sekarang kau bisa dapatkan gadis manapun!
 
 229
 00:15:53,800 --> 00:15:55,680
-{Right! You take care of Niwaka, Arisa!} Benar! Kau tolong jaga Niwaka, Arisa!
+ Benar! Kau tolong jaga Niwaka, Arisa!
 
 230
 00:15:55,680 --> 00:15:56,930
-{Moi! You can count on me!} Moi! Pokoknya beres!
+ Moi! Pokoknya beres!
 
 231
 00:15:59,310 --> 00:16:02,480
-{Actually, it's a line 
-from my original novel...} Sebetulnya, itu kalimat dari novel originalku...
+ Sebetulnya, itu kalimat dari novel originalku...
 
 232
 00:16:13,070 --> 00:16:16,160
-{What's wrong? What happened
-to your earlier bravado?} Ada apa? Kemana perginya keberanianmu yang tadi?
+ Ada apa? Kemana perginya keberanianmu yang tadi?
 
 233
 00:16:16,490 --> 00:16:18,870
-{Still so many...} Masih ada begitu banyak...
+ Masih ada begitu banyak...
 
 234
 00:16:19,080 --> 00:16:24,380
-{Akihabara belongs to us!
-All of humanity must kneel to us!} Akihabara milik kami! Seluruh umat manusia harus tunduk pada kami!
+ Akihabara milik kami! Seluruh umat manusia harus tunduk pada kami!
 
 235
 00:16:24,380 --> 00:16:27,670
-{Kneel to us, the Metrotica!} Tunduklah pada kami, Metrotica!
+ Tunduklah pada kami, Metrotica!
 
 236
 00:16:33,430 --> 00:16:34,590
@@ -1027,19 +981,19 @@ Celaka!
 
 237
 00:16:38,390 --> 00:16:43,020
-{Hahaha! Death to the traitor!} Hahaha! Mati kau, pengkhianat!
+ Hahaha! Mati kau, pengkhianat!
 
 238
 00:16:45,190 --> 00:16:46,270
-{You end here!} Kau berakhir di sini!
+ Kau berakhir di sini!
 
 239
 00:16:46,770 --> 00:16:47,980
-{I'm done for...} Aku sudah tamat...
+ Aku sudah tamat...
 
 240
 00:16:50,820 --> 00:16:51,440
-{What?!} Apa?!
+ Apa?!
 
 241
 00:16:53,610 --> 00:16:54,490
@@ -1059,7 +1013,7 @@ Ugh!
 
 245
 00:17:04,790 --> 00:17:05,830
-{Why did you come?!} Kenapa kau datang?!
+ Kenapa kau datang?!
 
 246
 00:17:05,830 --> 00:17:07,580
@@ -1075,7 +1029,7 @@ Tidak mungkin!
 
 249
 00:17:30,150 --> 00:17:32,070
-{Why... Why would you...} Kenapa... Kenapa kau...
+ Kenapa... Kenapa kau...
 
 250
 00:17:33,570 --> 00:17:35,530
@@ -1083,16 +1037,15 @@ Kurang ajar! Jangan ikut campur urusanku!
 
 251
 00:17:42,040 --> 00:17:44,500
-{Dammit... Let's go!} Sial... Ayo!
+ Sial... Ayo!
 
 252
 00:17:52,460 --> 00:17:53,760
-{Why...?} Kenapa...?
+ Kenapa...?
 
 253
 00:17:53,760 --> 00:17:57,630
-{My previous self... Told me to
-follow anything that looks interesting...} Diriku yang dulu... Menyuruhku untuk
+ Diriku yang dulu... Menyuruhku untuk
  mengikuti apapun yang terlihat menarik...
 
 254
@@ -1101,11 +1054,11 @@ Aku tidak tahu maksudmu!
 
 255
 00:17:59,350 --> 00:18:02,890
-{If you see my little sister, tell her...} Kalau kau bertemu adikku, bilang padanya...
+ Kalau kau bertemu adikku, bilang padanya...
 
 256
 00:18:02,890 --> 00:18:04,520
-{...her brother Tamotsu was--} kakaknya, Tamotsu—
+ kakaknya, Tamotsu—
 
 257
 00:18:04,520 --> 00:18:05,560
@@ -1113,37 +1066,36 @@ Blargh!
 
 258
 00:18:06,560 --> 00:18:09,610
-{Hey! Can't you even finish your final words?!} Hei! Tidak bisakah kau selesaikan kalimat terakhirmu?!
+ Hei! Tidak bisakah kau selesaikan kalimat terakhirmu?!
 
 259
 00:18:09,610 --> 00:18:15,360
-{I mean, no! You can't die! You can't die...} Pokoknya tidak! Kau tidak boleh mati! Kau tidak boleh mati...
+ Pokoknya tidak! Kau tidak boleh mati! Kau tidak boleh mati...
 
 260
 00:18:15,780 --> 00:18:17,740
-{Not for someone like me...} Apalagi demi orang sepertiku...
+ Apalagi demi orang sepertiku...
 
 261
 00:18:23,660 --> 00:18:27,370
-{It's okay. You will not die.} Tidak apa-apa. Kau tidak akan mati.
+ Tidak apa-apa. Kau tidak akan mati.
 
 262
 00:18:49,980 --> 00:18:52,480
-{Huh?! Where am I?!} Eh?! Dimana aku?!
+ Eh?! Dimana aku?!
 
 263
 00:18:52,480 --> 00:18:56,080
-{I just saw Grandma across a river, and--} Aku barusan lihat 
+ Aku barusan lihat 
 nenek di seberang sungai, kemudian—
 
 264
 00:18:56,080 --> 00:18:57,490
-{I'm glad you're okay.} Aku senang kau selamat.
+ Aku senang kau selamat.
 
 265
 00:18:57,950 --> 00:19:00,490
-{I just performed an operation on you
-called Transcend Providence.} Aku baru saja melakukan operasi padamu yang dinamakan Malampaui Takdir.
+ Aku baru saja melakukan operasi padamu yang dinamakan Malampaui Takdir.
 
 266
 00:19:00,490 --> 00:19:02,320
@@ -1159,50 +1111,48 @@ Tidak!
 
 269
 00:19:29,560 --> 00:19:31,600
-{You?! How?!} Kau?! Bagaimana?!
+ Kau?! Bagaimana?!
 
 270
 00:19:31,850 --> 00:19:35,480
-{It felt like I would be able
-to do that for some reason.} Rasanya untuk alasan tertentu, 
+ Rasanya untuk alasan tertentu, 
 aku akan bisa melakukan itu.
 
 271
 00:19:35,480 --> 00:19:36,950
-{I just have to undress them, right?} Aku hanya perlu menelanjangi mereka, 'kan?
+ Aku hanya perlu menelanjangi mereka, 'kan?
 
 272
 00:19:37,650 --> 00:19:40,650
-{Yes! The Bugged Ones
-are extremely sensitive to the air!} Ya! Manusia Serangga memang sangat sensitif terhadap udara!
+ Ya! Manusia Serangga memang sangat sensitif terhadap udara!
 
 273
 00:19:40,650 --> 00:19:42,240
-{Take their clothes off to defeat them!} Lepas pakaian mereka untuk mengalahkannya!
+ Lepas pakaian mereka untuk mengalahkannya!
 
 274
 00:19:42,240 --> 00:19:43,200
-{Roger!} Siap!
+ Siap!
 
 275
 00:19:48,500 --> 00:19:49,330
-{Enough!} Lemah!
+ Lemah!
 
 276
 00:19:55,000 --> 00:19:56,120
-{Are you okay?} Kau baik-baik saja?
+ Kau baik-baik saja?
 
 277
 00:19:56,120 --> 00:19:57,170
-{Here they come!} Mereka datang!
+ Mereka datang!
 
 278
 00:20:11,190 --> 00:20:12,310
-{Tamotsu! Above you!} Tamotsu! Atasmu!
+ Tamotsu! Atasmu!
 
 279
 00:20:19,440 --> 00:20:23,070
-{Ultra Super Miracle God Hand!} Tangan Tuhan Ultra Super Ajaib!
+ Tangan Tuhan Ultra Super Ajaib!
 
 280
 00:20:26,120 --> 00:20:30,000
@@ -1210,15 +1160,15 @@ Bisa-bisanya aku...
 
 281
 00:20:33,750 --> 00:20:35,250
-{What's that? A movie set?} Apa itu? Syuting film?
+ Apa itu? Syuting film?
 
 282
 00:20:35,250 --> 00:20:37,000
-{Lots of naked babes!} Ada banyak mbak-mbak bohai yang telanjang!
+ Ada banyak mbak-mbak bohai yang telanjang!
 
 283
 00:20:37,000 --> 00:20:39,510
-{Good... I got an excellent shot.} Mantap... Aku dapat gambar yang bagus.
+ Mantap... Aku dapat gambar yang bagus.
 
 284
 00:20:41,050 --> 00:20:43,130
@@ -1226,37 +1176,35 @@ Oh, hmm... F...
 
 285
 00:20:43,580 --> 00:20:46,220
-{No, I must respect this lady,
-even if she is evil.} Tidak, aku harus menghargai
+ Tidak, aku harus menghargai
  nona ini meski dia jahat.
 
 286
 00:20:46,220 --> 00:20:48,310
-{I must not stare at her in a lewd way.} Aku tidak boleh 
+ Aku tidak boleh 
 menatapnya dengan tatapan birahi.
 
 287
 00:20:48,310 --> 00:20:49,810
-{But you totally did stare, right?} Tapi kau memang menatapnya, 'kan?
+ Tapi kau memang menatapnya, 'kan?
 
 288
 00:20:49,810 --> 00:20:53,030
-{No, um, this is a thing that
-Akiba comrades do with the thing, and...} Tidak, tapi ini sesuatu 
+ Tidak, tapi ini sesuatu 
 yang dilakukan warga Akiba, dan...
 
 289
 00:20:53,190 --> 00:20:57,060
-{But I'm impressed that you did so well...} Tapi aku terkesan, 
+ Tapi aku terkesan, 
 kau melakukannya dengan sangat baik...
 
 290
 00:20:57,060 --> 00:20:59,570
-{I do tend to grasp things quickly.} Dari dulu aku memang cepat belajar.
+ Dari dulu aku memang cepat belajar.
 
 291
 00:21:00,550 --> 00:21:03,270
-{Mister... Tamotsu, right?} Mas... Tamotsu, 'kan?
+ Mas... Tamotsu, 'kan?
 
 292
 00:21:04,030 --> 00:21:07,780
@@ -1264,26 +1212,24 @@ Aku Matome. Matome Mayonaka.
 
 293
 00:21:08,030 --> 00:21:11,410
-{That sounds like the name
-of a mayonnaise review blog!} Kedengarannya kayak nama 
+ Kedengarannya kayak nama 
 blog yang me-review mayonais!
 
 294
 00:21:11,410 --> 00:21:12,960
-{Can I call you Mayo?} Boleh kupanggil Mayo?
+ Boleh kupanggil Mayo?
 
 295
 00:21:12,960 --> 00:21:14,290
-{Wait, that's the part
-you're going to abbreviate?} Tunggu, itu bagian yang kau singkat?
+ Tunggu, itu bagian yang kau singkat?
 
 296
 00:21:15,790 --> 00:21:17,320
-{But... I'm sorry.} Tapi... Maaf.
+ Tapi... Maaf.
 
 297
 00:21:17,320 --> 00:21:19,500
-{You can't live a normal life anymore.} Kau tidak bisa lagi hidup normal.
+ Kau tidak bisa lagi hidup normal.
 
 298
 00:21:19,500 --> 00:21:20,420
@@ -1291,37 +1237,35 @@ Eh?
 
 299
 00:21:20,920 --> 00:21:23,470
-{You have now seen the paranormal Akihabara.} Karena kau sudah melihat 
+ Karena kau sudah melihat 
 sisi paranormal Akihabara.
 
 300
 00:21:23,470 --> 00:21:26,260
-{You are now destined to continue
-fighting alongside me,} Sekarang kau ditakdirkan 
+ Sekarang kau ditakdirkan 
 untuk terus bertarung bersamaku,
 
 301
 00:21:26,260 --> 00:21:28,470
-{in a never-ending nightmare...} dalam mimpi buruk yang tak ada habisnya...
+ dalam mimpi buruk yang tak ada habisnya...
 
 302
 00:21:29,810 --> 00:21:32,470
-{Put your phone away and listen!} Taruh ponselmu dan dengarkan orang bicara!
+ Taruh ponselmu dan dengarkan orang bicara!
 
 303
 00:21:35,600 --> 00:21:38,250
-{You can't go home dressed like that, right?} Kau tidak bisa pulang dengan
+ Kau tidak bisa pulang dengan
  berpakaian seperti itu, 'kan?
 
 304
 00:21:38,250 --> 00:21:40,250
-{I was looking up the closest 
-clothes store and it's still open.} Aku sedang mencari toko
+ Aku sedang mencari toko
  pakaian terdekat dan masih buka.
 
 305
 00:21:40,250 --> 00:21:41,410
-{Let's get changed there.} Kita ganti pakaian di sana.
+ Kita ganti pakaian di sana.
 
 306
 00:21:41,410 --> 00:21:42,480
@@ -1329,54 +1273,53 @@ E-Eh?
 
 307
 00:21:44,280 --> 00:21:46,300
-{Hey, I'm not finished--} Hei, aku belum selesai—
+ Hei, aku belum selesai—
 
 308
 00:21:46,300 --> 00:21:47,870
-{I get the gist.} Aku mengerti.
+ Aku mengerti.
 
 309
 00:21:47,870 --> 00:21:52,080
-{Our battle has only just begun, right?!} Pertarungan kita baru saja dimulai, 'kan?
+ Pertarungan kita baru saja dimulai, 'kan?
 
 310
 00:23:25,170 --> 00:23:28,050
-{Swords, guns... All boys love weapons.} Pedang, senjata api... 
+ Pedang, senjata api... 
 Semua anak laki-laki suka senjata.
 
 311
 00:23:28,050 --> 00:23:29,130
-{Do you know a lot about them?} Apa kau tahu banyak tentang itu?
+ Apa kau tahu banyak tentang itu?
 
 312
 00:23:29,130 --> 00:23:31,680
-{To be honest, no. But I do have
-a bit of sentiment towards them!} Sejujurnya, tidak. Tapi aku memang punya sedikit sentimen terhadapnya!
+ Sejujurnya, tidak. Tapi aku memang punya sedikit sentimen terhadapnya!
 
 313
 00:23:32,430 --> 00:23:33,430
-{I don't get it.} Aku tidak mengerti.
+ Aku tidak mengerti.
 
 314
 00:23:33,430 --> 00:23:35,510
-Akiba's Trip The Animation, {next episode!}episode berikutnya!
+Akiba's Trip The Animation, episode berikutnya!
 
 315
 00:23:35,510 --> 00:23:36,990
-{\an8"We Formed a Team - Call Us Electric Mayo!"} "Kami Membentuk Sebuah Tim - Panggil Kami Electric Mayo!"
+{\an8} "Kami Membentuk Sebuah Tim - Panggil Kami Electric Mayo!"
 
 316
 00:23:35,530 --> 00:23:41,120
-{\pos(176.244,339.667)\fax0.2}Perjalanan 2
+Perjalanan 2
 
 317
 00:23:35,530 --> 00:23:41,120
-{\fax0.2\pos(431.081,377.556)}Kami Membentuk Sebuah Tim - 
+Kami Membentuk Sebuah Tim - 
 Panggil Kami Electric Mayo!
 
 318
 00:23:36,990 --> 00:23:39,270
-{\an8Electric Mayo? Is that a type of weapon, too?} Electric mayo? Apa itu jenis senjata juga?
+{\an8} Electric mayo? Apa itu jenis senjata juga?
 
 319
 00:23:42,790 --> 00:23:44,810
