@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1,TRANS7
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/trans72_all/playlist.m3u8
+#EXTINF:-1,TRANSTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/transtv2_all/playlist.m3u8
+#EXTINF:-1,GLOBALTV#1
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/globaltv2_all/playlist.m3u8
+#EXTINF:-1,MNC TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/mnctv2_all/playlist.m3u8
+#EXTINF:-1,METRO TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/metrotv2_all/playlist.m3u8
+#EXTINF:-1,AN TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/antv2_all/playlist.m3u8
+#EXTINF:-1,KOMPASTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/kompastv_all/playlist.m3u8
+#EXTINF:-1,INDOSIAR
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/indosiar2_all/playlist.m3u8
+#EXTINF:-1,RTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/rajawalitv.stream_all/playlist.m3u8
+#EXTINF:-1,NET TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/nettv_all/playlist.m3u8
+#EXTINF:-1,TV ONE
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvone2_all/playlist.m3u8
+#EXTINF:-1,TVRIBUDAYA
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvribudaya_all/playlist.m3u8
+#EXTINF:-1,TVRIOLAHRAGA
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvriolahraga_all/playlist.m3u8
+#EXTINF:-1,TVRIOLAHRAGA#2
+http://118.97.50.102:1935/digital/olahraga/playlist.m3u8
+#EXTINF:-1,TVRINASIONAL
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvrinasional_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA ANTARA TV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/antaratv_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA ANTV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/antv2_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA BERITA SATU
+http://edge.nim.mivo.tv/kqcsmbqna6yg/beritasatu_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA GLOBALTV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/globaltv2_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA INDOSIAR
+http://edge.nim.mivo.tv/kqcsmbqna6yg/indosiar2_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA KOMPASTV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/kompastv_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA METROTV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/metrotv2_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA MNCTV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/mnctv2_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA NET
+http://edge.nim.mivo.tv/kqcsmbqna6yg/nettv_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA RCTI
+http://edge.nim.mivo.tv/kqcsmbqna6yg/rcti2_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA RTV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/rajawalitv.stream_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA SCTV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/sctv2_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA TRANS7
+http://edge.nim.mivo.tv/kqcsmbqna6yg/trans72_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA TRANSTV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/transtv2_all/playlist.m3u8
+#EXTINF:-1,Anis Sat :: INDONESIA TVONE
+http://edge.nim.mivo.tv/kqcsmbqna6yg/tvone2_all/playlist.m3u8
+#EXTINF:-1,NEWS
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index.m3u8
+#EXTINF:-1,MNCT
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index.m3u8
+#EXTINF:-1,iNEWSTV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8
+#EXTINF:-1,MNC
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index.m3u8
+#EXTINF:-1,MUSIC CHANNEL
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index.m3u8
+#EXTINF:-1,rcti
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
+#EXTINF:-1,N/A
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000072/index.m3u8
+#EXTINF:-1,drama CHANNEL
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index.m3u8
