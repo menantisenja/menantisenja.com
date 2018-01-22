@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR purple]INDONESIA CHANNEL :) [/COLOR]
+
+
+#EXTINF:-1 group-title="Indonesia",CNN Indonesia 
+http://live.cnnindonesia.com/livecnn/cnn_live_tv2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGuia_RCTI" tvg-name="RCTI" tvg-logo="RCTI.png" group-title="Indonesia",RCTI
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
+
+#EXTINF:-1 tvg-id="TVGuia_GLOBALTV" tvg-name="GLOBALTV" tvg-logo="GLOBALTV.png" group-title="Indonesia",GLOBALTV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8
+
+#EXTINF:-1 tvg-id="TVGuia_METROTV" tvg-name="METROTV" tvg-logo="METROTV.png" group-title="Indonesia",METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGuia_NETTV" tvg-name="NETTV" tvg-logo="NETTV.png" group-title="Indonesia",NETTV
+http://win.stream.netmedia.co.id/live/nettv_mid/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia",Kompas TV
+rtmp://202.137.11.52/jakarta/offair.sdp
+
+#EXTINF:-1 group-title="Indonesia",iNewsTV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index512.m3u8
+
+#EXTINF:-1 group-title="Indonesia",MNCMusic
+http://edge.okeinfo.net/live/musik/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia",MNC
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index256.m3u8
+
